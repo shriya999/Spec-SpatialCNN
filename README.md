@@ -3,7 +3,7 @@
 
 This repository contains code for the models presented in the [paper](https://link.springer.com/chapter/10.1007/978-3-030-48791-1_17).
 
-The code base is built using the [Spectral Python](http://www.spectralpython.net/), [Numpy] (https://numpy.org/) and [Scikit-Learn] (https://scikit-learn.org/stable/) libraries. The GMLC based model is implemented through the Spectral Python library whereas the CNN based model is implemented using the [Keras](https://keras.io/) library. The code is provided in the form of a jupyter notebook which can be run on [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb).
+The code base is built using the [Spectral Python](http://www.spectralpython.net/), [Numpy](https://numpy.org/) and [Scikit-Learn](https://scikit-learn.org/stable/) libraries. The GMLC based model is implemented through the Spectral Python library whereas the CNN based model is implemented using the [Keras](https://keras.io/) library. The code is provided in the form of a jupyter notebook which can be run on [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb).
 
 The experiments have been carried out as described in the paper for the following datasets:
 
